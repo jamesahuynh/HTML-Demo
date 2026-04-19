@@ -1,11 +1,13 @@
 body {
   background-color: white
 }
+
 p {
   font-family: arial;
   font-size: 15px;
   color: black;
 }
+
 div {
   background-color: red;
   width: 400px;
